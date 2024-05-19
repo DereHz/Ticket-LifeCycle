@@ -73,6 +73,8 @@ Like the last ticket, make sure the settings are set properly
 
 
 <img width="993" alt="Screen Shot 2024-05-19 at 5 54 19 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/59d150b5-616c-49cc-a10f-e88db6d6aaa1">
+<img width="1346" alt="Screen Shot 2024-05-19 at 6 05 03 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/6d703cd4-f9c0-4d2a-b2e5-72833eddfe1a">
+
 
 For the last ticket
  - Sign in as the agent assigned for this ticket
