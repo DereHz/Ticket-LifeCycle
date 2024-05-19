@@ -81,6 +81,9 @@ For the last ticket
  - Make sure all the settings are set properly
  - close the ticket letting them know it has been resolved
 
+<img width="1129" alt="Screen Shot 2024-05-19 at 6 07 58 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/9f50a08e-b8be-4661-925b-d62a39300a39">
+
+When all the tickets are done, this is how the open ticket page should be.
 
 
 
