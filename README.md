@@ -50,6 +50,66 @@ Open one of the tickets
  - Post a Reply
 
 
+<img width="1097" alt="Screen Shot 2024-05-19 at 5 35 13 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/501b7544-d2bf-4ef3-84a9-864e6dc2dfa6">
+
+When the ticke has been resolved
+ - Post another reply letting them know the issue has been resolved
+ - Change the ticket Status from "Open" to "Resolved"
+
+
+<img width="1165" alt="Screen Shot 2024-05-19 at 5 40 42 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/01d279f1-a72b-4ea5-9fd8-575cbe1e4439">
+
+
+Back on Open osTickets
+ - Click on another open ticket
+
+
+
+<img width="968" alt="Screen Shot 2024-05-19 at 5 45 41 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/06152750-be21-42c8-8236-0b317a0d5f41">
+
+
+Like the last ticket, make sure the settings are set properly 
+ - Assign to a different agent this time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
