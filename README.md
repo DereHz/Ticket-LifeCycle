@@ -72,9 +72,12 @@ Like the last ticket, make sure the settings are set properly
  - Assign to a different agent this time
 
 
+<img width="993" alt="Screen Shot 2024-05-19 at 5 54 19 PM" src="https://github.com/DereHz/ticket-lifecycle/assets/169094076/59d150b5-616c-49cc-a10f-e88db6d6aaa1">
 
-
-
+For the last ticket
+ - Sign in as the agent assigned for this ticket
+ - Make sure all the settings are set properly
+ - close the ticket letting them know it has been resolved
 
 
 
